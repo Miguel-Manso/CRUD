@@ -1,5 +1,9 @@
-# CRUD
-Crud feito em Node.js, para o desenvolvimento do Back-End - 03/09
 
-Npm init
-Npm install express
+
+
+
+
+# Objetivo
+## Criação de Servidor em Node.js
+## Estrutura MVC
+## Conexão com o Banco Sql Server
